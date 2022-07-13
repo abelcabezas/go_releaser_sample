@@ -1,0 +1,2 @@
+# go_releaser_sample
+go_releaser_sample
